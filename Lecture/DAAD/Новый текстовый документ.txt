@@ -7,3 +7,13 @@ Step 3- Now search for {8856F961-340A-11D0-A96B-00C04FD705A2} in  'COM Compatibi
 
 Step 4- Once you find {8856F961-340A-11D0-A96B-00C04FD705A2},click on it and change the 
         compatibility flags value to '0' and exit Regedit.
+        
+
+Привіт! Вибач, вчора не надіслав назв, то сьогодні щонайраніше.. Давай на таких темах зупинимося:
+        
+29.11 Solar cells: equivalent circuit models and parameters
+
+06.12 A meta-heuristic algorithms for parameter extraction of solar cells       
+
+
+Еквівалентні моделі бар’єрних напівпровідникових структур та визначення параметрів
